@@ -1,4 +1,4 @@
-<h2 align="center">Olá, bem vindo ao meu Git</h2>
+<h2 align="center">Olá, meu nome é Osmar</h2>
 
 ###
 
@@ -6,10 +6,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=OsmarZM&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OsmarZM&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://media.tenor.com/images/f2684f1e77b61d7d32243d9bfe36d445/tenor.gif"  />
 
 ###
 
@@ -24,6 +20,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://media.tenor.com/images/f2684f1e77b61d7d32243d9bfe36d445/tenor.gif"  />
 
 ###
 
