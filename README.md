@@ -1,4 +1,4 @@
-<h2 align="center">Olá, bem vindo ao meu git</h2>
+<h2 align="center">Olá, meu nome é Osmar</h2>
 
 ###
 
@@ -39,7 +39,7 @@
 
 <br clear="both">
 
-<img src="snake.svg"/>
+<img src="https://raw.githubusercontent.com/OsmarZM/OsmarZM/output/snake.svg" alt="Snake animation" />
 
 ###
 
