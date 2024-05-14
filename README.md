@@ -1,10 +1,10 @@
-<h2 align="center">Olá, meu nome é Osmar</h2>
+<h2 align="center">Olá, Bem Vindo ao Meu GitHub</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OsmarZM&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OsmarZM&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=OsmarZM&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OsmarZM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -23,10 +23,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/images/f2684f1e77b61d7d32243d9bfe36d445/tenor.gif"  />
-
-###
-
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -37,9 +33,13 @@
 
 ###
 
+<img align="right" height="150" src="https://media.tenor.com/images/f2684f1e77b61d7d32243d9bfe36d445/tenor.gif"  />
+
+###
+
 <br clear="both">
 
-<img src="snake.svg" />
+<img src="snake.svg"/>
 
 ###
 
