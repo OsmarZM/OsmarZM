@@ -81,13 +81,53 @@ const osmar = {
 ## 📌 Featured Projects
 
 <div align="center">
-
-[![Criador de Campos Bitrix24](https://github-readme-stats.vercel.app/api/pin/?username=OsmarZM&repo=Criador-de-Campos-Bitrix24&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/OsmarZM/Criador-de-Campos-Bitrix24)
-[![Google Maps RPA](https://github-readme-stats.vercel.app/api/pin/?username=OsmarZM&repo=Google-Maps-Rpa&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/OsmarZM/Google-Maps-Rpa)
-
-[![Importador Bitrix24](https://github-readme-stats.vercel.app/api/pin/?username=OsmarZM&repo=Importador-Bitrix24&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/OsmarZM/Importador-Bitrix24)
-[![RAG + MCP](https://github-readme-stats.vercel.app/api/pin/?username=OsmarZM&repo=Rag-Mcp&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/OsmarZM/Rag-Mcp)
-
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🗺️ Google Maps RPA</h3>
+      <p>Robô de automação para coleta de dados de empresas direto do Google Maps. Extrai nome, endereço, telefone e avaliações em escala — sem API paga.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
+        <img src="https://img.shields.io/badge/RPA-8B5CF6?style=flat-square&logoColor=white"/>
+      </p>
+      <a href="https://github.com/OsmarZM/Google-Maps-Rpa">→ Ver repositório</a>
+    </td>
+    <td width="50%">
+      <h3>🧩 Criador de Campos Bitrix24</h3>
+      <p>Ferramenta para criação e gerenciamento de campos customizados no Bitrix24 via API. Elimina o trabalho manual de configuração de CRM em escala.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Bitrix24-FF0000?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/REST_API-8B5CF6?style=flat-square&logoColor=white"/>
+      </p>
+      <a href="https://github.com/OsmarZM/Criador-de-Campos-Bitrix24">→ Ver repositório</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📥 Importador Bitrix24</h3>
+      <p>Pipeline de importação em massa de leads e contatos para o Bitrix24. Trata duplicatas, valida dados e registra logs de cada operação.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Bitrix24-FF0000?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pipeline-8B5CF6?style=flat-square&logoColor=white"/>
+      </p>
+      <a href="https://github.com/OsmarZM/Importador-Bitrix24">→ Ver repositório</a>
+    </td>
+    <td width="50%">
+      <h3>🧠 RAG + MCP</h3>
+      <p>Framework de Retrieval-Augmented Generation integrado ao Model Context Protocol. Base para construção de agentes com memória contextual e fontes de conhecimento externas.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/RAG-8B5CF6?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MCP-A78BFA?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Claude_API-191919?style=flat-square&logo=anthropic&logoColor=white"/>
+      </p>
+      <a href="https://github.com/OsmarZM/Rag-Mcp">→ Ver repositório</a>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
@@ -96,11 +136,8 @@ const osmar = {
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OsmarZM&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=true&border_radius=10&order=1)](https://github.com/OsmarZM)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=OsmarZM&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&border_radius=10&order=2)](https://github.com/OsmarZM)
-
-[![GitHub Streak](https://git.io/streak-stats?user=OsmarZM&theme=tokyonight&hide_border=true&border_radius=10&locale=pt_BR)](https://git.io/streak-stats)
-
+ 
+<img src="https://streak-stats.demolab.com?user=OsmarZM&theme=tokyonight&hide_border=true&border_radius=10&locale=pt_BR" />
 </div>
 
 ---
